@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/lancedev/static/css/main.073c9b0a.css",
-    "main.js": "/lancedev/static/js/main.579fa844.js",
-    "static/js/787.2d72195c.chunk.js": "/lancedev/static/js/787.2d72195c.chunk.js",
-    "static/media/logo.svg": "/lancedev/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/lancedev/index.html",
-    "main.073c9b0a.css.map": "/lancedev/static/css/main.073c9b0a.css.map",
-    "main.579fa844.js.map": "/lancedev/static/js/main.579fa844.js.map",
-    "787.2d72195c.chunk.js.map": "/lancedev/static/js/787.2d72195c.chunk.js.map"
+    "main.css": "/static/css/main.d123ef09.css",
+    "main.js": "/static/js/main.a286461a.js",
+    "static/media/Group 77.svg": "/static/media/Group 77.c8e62d6f7c27a7a8a3e529b310e5cf92.svg",
+    "index.html": "/index.html",
+    "main.d123ef09.css.map": "/static/css/main.d123ef09.css.map",
+    "main.a286461a.js.map": "/static/js/main.a286461a.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.579fa844.js"
+    "static/css/main.d123ef09.css",
+    "static/js/main.a286461a.js"
   ]
 }
